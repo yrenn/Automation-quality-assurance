@@ -1,0 +1,1 @@
+# QA_data_comparsion_sqlserver_and_snowflake
