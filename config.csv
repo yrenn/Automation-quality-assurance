@@ -1,0 +1,11 @@
+SOURCETABLE,TARGETTABLE,SRCCOL,TGTCOL
+SAW.Address,SAW.Address,*,*
+SAW.Customer,SAW.Customer,*,*
+SAW.CustomerAddress,SAW.CustomerAddress,*,*
+SAW.Product,SAW.Product,*,*
+SAW.ProductCategory,SAW.ProductCategory,*,*
+SAW.ProductDescription,SAW.ProductDescription,*,*
+SAW.ProductModel,SAW.ProductModel,*,*
+SAW.ProductModelProductDescription,SAW.ProductModelProductDescription,*,*
+SAW.SalesOrderDetail,SAW.SalesOrderDetail,*,*
+SAW.SalesOrderHeader,SAW.SalesOrderHeader,*,*
