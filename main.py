@@ -16,7 +16,7 @@ import logging
 def loadingTarTable():
     url = URL(
     user='yuren',
-    password='Cmbhylf258852!',
+    password='********',
     account='ZYWISZN-JU46823',
     warehouse='COMPUTE_WH',
     database='EDP',
