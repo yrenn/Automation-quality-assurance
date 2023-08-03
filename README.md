@@ -1,4 +1,4 @@
-# QA_data_comparsion_sqlserver_and_snowflake
+# Quality_Assurance & Automation Testing
 
 # background
 As test analysts, we should be responsible for the data quality after data migration. In the past, we compare the tables manually to make the data type and value accurate and correct. For saving time and enhancing efficiency, I create the automation testing using a Python script. Hopefully, it can be used in other projects in the future.
